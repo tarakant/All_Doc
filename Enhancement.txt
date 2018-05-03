@@ -1,0 +1,6 @@
+yum install vim-enhanced
+
+$ curl https://raw.githubusercontent.com/linuxacademy/content-python3-sysadmin/master/helpers/bashrc -o ~/.bashrc
+exec $SHELL #to reload your shell
+
+$ curl https://raw.githubusercontent.com/linuxacademy/content-python3-sysadmin/master/helpers/vimrc -o ~/.vimrc
