@@ -4,3 +4,7 @@ $ curl https://raw.githubusercontent.com/linuxacademy/content-python3-sysadmin/m
 exec $SHELL #to reload your shell
 
 $ curl https://raw.githubusercontent.com/linuxacademy/content-python3-sysadmin/master/helpers/vimrc -o ~/.vimrc
+
+
+ZSH SHELL:
+https://simplyaboutcode.com/oh-my-zsh-wsl-ubuntu/
